@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td align="center">
-          <a href="https://kentcdodds.com">
+          <a href="https://github.com/Blackhorde-coder">
             <img src="https://avatars.githubusercontent.com/u/57644244?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>Hernan Pena</b></sub></a>
@@ -33,7 +33,7 @@
           <a href="https://www.linkedin.com/in/hernan-mauricio-pena" title="LinkedIn">👀</a> 
     </td>
     <td align="center">
-          <a href="https://kentcdodds.com">
+          <a href="https://github.com/evisintini">
             <img src="https://avatars.githubusercontent.com/u/63618444?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>Ezequiel Visintini</b></sub></a>
@@ -43,7 +43,7 @@
           <a href="https://www.linkedin.com/in/EzequielVisintini" title="LinkedIn">👀</a> 
     </td>
     <td align="center">
-          <a href="https://kentcdodds.com">
+          <a href="https://github.com/aldanaba97">
             <img src="https://avatars.githubusercontent.com/u/63618011?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>Aldana Banuera</b></sub></a>
@@ -53,7 +53,7 @@
           <a href="https://www.linkedin.com/in/aldana-banuera-3235511b3" title="LinkedIn">👀</a> 
     </td>
         <td align="center">
-          <a href="https://kentcdodds.com">
+          <a href="https://github.com/EmilianoBazanZapata">
             <img src="https://avatars.githubusercontent.com/u/57721403?v=4" width="100px;" alt=""/>
             <br />
             <sub><b>Emiliano Bazán-Zapata</b></sub></a>
