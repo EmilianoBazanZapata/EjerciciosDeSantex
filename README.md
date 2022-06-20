@@ -68,7 +68,7 @@
 
 ## Tecnologías
 
-Aqui se podrá ver las tenclogias utilizadas en el repositorio
+Aqui se podrá ver las tecnlogias utilizadas en el repositorio
 
 * [JavaScript](https://www.javascript.com)
 
