@@ -2,7 +2,7 @@
 //ejemplo
 //"32243" -> deberia retornar "34223"
 //"hola" -> deberia retonrar "aloh"
-
+//hola que tal
 function invertir (cadena){
     let resultado = "";
     for(let i=cadena.length-1; i=0; i--){
