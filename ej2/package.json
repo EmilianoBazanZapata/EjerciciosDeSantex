@@ -1,12 +1,18 @@
 {
-  "name": "ej2",
+  "name": "ejercisio2",
   "version": "1.0.0",
-  "description": "",
+  "description": "holamundo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "leer": "node leer.js",
+    "callback": "node Callback.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "blakchorde",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {}
 }
