@@ -12,7 +12,8 @@
   "author": "blakchorde",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2"
-  },
-  "devDependencies": {}
+    "axios": "^0.27.2",
+    "sequelize": "^6.21.3",
+    "sqlite3": "^5.0.8"
+  }
 }
